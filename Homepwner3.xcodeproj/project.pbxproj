@@ -18,6 +18,7 @@
 		932CEAED1EA651F800494240 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932CEAEC1EA651F800494240 /* Item.swift */; };
 		932CEAEF1EA6581100494240 /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932CEAEE1EA6581100494240 /* ItemStore.swift */; };
 		CC1347761EAF95F800729D72 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC1347751EAF95F800729D72 /* ItemCell.swift */; };
+		CC523C1F1ECDEB4E0080B64A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC523C1E1ECDEB4E0080B64A /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		932CEAEC1EA651F800494240 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		932CEAEE1EA6581100494240 /* ItemStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
 		CC1347751EAF95F800729D72 /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
+		CC523C1E1ECDEB4E0080B64A /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				932CEAEC1EA651F800494240 /* Item.swift */,
 				932CEAEE1EA6581100494240 /* ItemStore.swift */,
 				932CEAEA1EA6518800494240 /* ItemsTableViewController.swift */,
+				CC523C1E1ECDEB4E0080B64A /* DetailViewController.swift */,
 				932CEAB81EA6511700494240 /* Homepwner3 */,
 				932CEAD01EA6511700494240 /* Homepwner3Tests */,
 				932CEADB1EA6511700494240 /* Homepwner3UITests */,
@@ -277,6 +280,7 @@
 				932CEAEB1EA6518800494240 /* ItemsTableViewController.swift in Sources */,
 				932CEAEF1EA6581100494240 /* ItemStore.swift in Sources */,
 				932CEAC21EA6511700494240 /* Homepwner3.xcdatamodeld in Sources */,
+				CC523C1F1ECDEB4E0080B64A /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
